@@ -13,8 +13,10 @@ Script must have a clear definition of which file types can be moved and which c
 Script must organise files based on the year they were first created
 Script must not delete any files that it does not recognise
 Script must create a zipped (and compressed) copy of all files interacted with to ensure bnackup in the event of failure
+Script must assign a each backup with a unique identifier (hash value)
 Script must adhere to the backup retention policy and delete when deadline has been reached
 
 Blue-sky project
 Script should use facial recognition to identify and categorise people's faces
 Script should identify duplicate files and remove them
+Script should run when prompted or regularly in commonly set folders (set by the user)
