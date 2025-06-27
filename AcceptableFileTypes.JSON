@@ -1,0 +1,40 @@
+{
+    "Acceptable file types":
+        {
+            "Pictures":
+                [
+                    "JPG"
+                    ,"JPEG"
+                    ,"GIF"
+                    ,"PNG"
+                    ,"WebP"
+                    ,"HEIF"
+                    ,"HEIC"
+                    ,"TIFF"
+                    ,"BMP"
+                    ,"PSD"
+                    ,"ESP"
+                ],
+            "Video Files":
+                [
+                    "MP4"
+                    ,"Mov"
+                    ,"AVI"
+                    ,"WMV"
+                    ,"FLV"
+                    ,"F4V"
+                    ,"MKV"
+                    ,"WebM"
+                    ,"AVCHD"
+                    ,"MPEG-2"
+                    ,"3GP"
+                    ,"3G2"
+                    ,"OGV"
+                    ,"M4V"
+                    ,"ProRes"
+                    ,"DNxHR"
+                    ,"DNxHD"
+                ]
+        }
+
+}
