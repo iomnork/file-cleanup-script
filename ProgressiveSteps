@@ -1,0 +1,20 @@
+My notes for script to clean up files when I have folders with a lot of variable data in them. (eg: information requests from social media)
+
+Problems to solve:
+
+User musts:
+User must be able to select the folder they want to clean up
+User must specify where they want the job to move the files to
+User must specify how long the backups should be retained for
+
+Script musts:
+Script must feed back consistent progress to the user
+Script must have a clear definition of which file types can be moved and which cannot
+Script must organise files based on the year they were first created
+Script must not delete any files that it does not recognise
+Script must create a zipped (and compressed) copy of all files interacted with to ensure bnackup in the event of failure
+Script must adhere to the backup retention policy and delete when deadline has been reached
+
+Blue-sky project
+Script should use facial recognition to identify and categorise people's faces
+Script should identify duplicate files and remove them
